@@ -1,5 +1,5 @@
 ## Hello World!
 
-- Git is not awesome
-- Octocat isn't cool
+- Git is awesome
+- Octocat is cool
 - Octodog is cool
